@@ -1,0 +1,4 @@
+penv/
+.env
+db.sqlite3
+projectnotes.md
